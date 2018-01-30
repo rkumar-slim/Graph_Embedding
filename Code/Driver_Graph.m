@@ -1,5 +1,5 @@
 clear all;clc;
-addpath('/scratch/slim/shared/rajiv_italo/original');
+addpath(genpath('Code/mbin/'));
 n               = [101 301];
 h               = [50 50];
 z               = [0:n(1)-1]*h(1);
