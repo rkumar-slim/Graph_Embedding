@@ -18,5 +18,5 @@ learning approach or directly apply it to get new images. Alternate minimization
 
 
 #### Invert to learn to invert
-scalable to large dimension instead of 2D, using reversible network with invertible theme, dont need to same intermediate steps
- 
+scalable to large dimension instead of 2D, using reversible network with invertible theme, defined an invertible layer which is less computationally 
+demanded, run on fastMRI fo both 2D and 3D.
